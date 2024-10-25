@@ -1,4 +1,4 @@
-module github.com/pedropilla/xk6-pubsub
+module github.com/zerbinidamata/xk6-pubsub
 
 go 1.20
 
